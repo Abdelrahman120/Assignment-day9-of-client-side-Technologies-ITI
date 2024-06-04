@@ -1,0 +1,1 @@
+this is the Assignment of day 9 in ITI client side Technologies in training in ITI ,in it i have made some tasks using HTML and JS and ES6 ,that swap two variables using destructuring,getting max and min values Using rest parameter and spread operator and get the data from API using Promises with Two different ways (then,catch) and (async,await).
